@@ -1,3 +1,29 @@
 <resources>
-    <string name="app_name">HugoTec</string>
+    <string name="app_name">Control de Parqueos</string>
+    <!-- Drawer Options-->
+    <string name="txt_registrar_entrada">Registrar Entrada</string>
+    <string name="txt_registrar_salida">Registrar Salida</string>
+    <string name="txt_alta_vehiculo_oficial">Dar de Alta Vehiculo Oficial</string>
+    <string name="txt_alta_vehiculo_residente">Dar de Alta Vehiculo Residente</string>
+    <string name="txt_comienza_mes">Comienza Mes</string>
+    <string name="txt_pagos_residentes">Pagos Residentes</string>
+
+    <string name="txt_home">Inicio</string>
+
+    <!-- Option Explanation -->
+    <string name="txt_registrar_entrada_explicacion">Debes de ingresar la placa del vehiculo que esta entrando, par iniciar el conteo de la estancia en el parqueo. Una vez lo ingreses preciona Agregar Vehiculo.</string>
+    <string name="txt_registrar_salida_explicacion">Debes de ingresar la placa del vehiculo que esta saliendo e indicarle el pago a realizar, si es un vehiculo oficial o residente no tendra que pagar en este momento.</string>
+    <string name="txt_alta_vehiculo_oficial_explicacion">Debes ingresar la placa del vehiculo para registrarlo como oficial.</string>
+    <string name="txt_alta_vehiculo_residente_explicacion">Debes ingresar la placa del vehiculo para registrarlo como residente.</string>
+    <string name="txt_comienza_mes_explicacion">Al precionar el boton "COMIENZA MES" se pondran en cero los el tiempo de estacionamiento de los vehiculos residentes.</string>
+    <string name="txt_pagos_residentes_explicacion">Debes ingresar el nombre del archivo de pagos de residentes y al precionar "GENERA PAGOS DE RESIDENTES" se generara dicho archivo</string>
+    `
+    <!-- Fragment information -->
+    <string name="txt_ingrese_placa">Ingrese placa de vehiculo :</string>
+    <string name="txt_btn_grabar_vehiculo">Agregar Vehiculo</string>
+    <string name="txt_btn_comienza_mes">Comienza mes</string>
+    <string name="txt_btn_genera_pagos_residentes">Genera pagos de residentes</string>
+    <string name="txt_btn_alta_vehiculo_oficial">Dar de alta vehiculo oficial</string>
+    <string name="txt_btn_alta_vehiculo_residente">Dar de alta vehiculo residente</string>
+    <string name="txt_ingrese_nombre_archivo">Ingrese nombre de archivo</string>
 </resources>
